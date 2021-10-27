@@ -1,0 +1,35 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    color: #3B5998;
+    
+  }
+  
+  .fa-instagram {
+    
+    color: black;
+  }
+
+
+  h1 {
+      font-size: 30px;
+      color: rgb(50, 117, 36);
+      margin-left: 500px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .icon{
+      display:flex;
+  }
